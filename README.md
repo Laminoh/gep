@@ -6,6 +6,10 @@ Site de présentation statique en HTML, CSS et JavaScript. Cette version ne poss
 
 Avec WAMP, placer le dossier dans le répertoire web puis ouvrir `http://localhost/gep/`. Il est également possible d’ouvrir `index.html` directement dans un navigateur. Un serveur local est préférable pour tester le stockage de démonstration de l’administration.
 
+## Version publiée
+
+Le site public est disponible sur GitHub Pages : https://laminoh.github.io/gep/. La publication est configurée depuis la branche `main`, à la racine du dépôt. Chaque mise à jour poussée sur cette branche déclenche une nouvelle publication.
+
 ## Pages
 
 - `index.html` : accueil.
